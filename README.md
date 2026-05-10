@@ -1,4 +1,4 @@
-# Awesome- Vision Language Model (VLM) Survey Papers
+# Awesome Vision-Language-Model (VLM) Survey Papers
 In this page, I will provide a curated list of survey papers on topics related to Vision Language Models (VLMs) and their applications in various fields, including visual understanding, image generation, autonomous driving, healthcare and more. Due to the large volume of works published in the VLM area, I try to keep track of comprehensive survey papers published (or under review) in top venues. If there is a paper missing here, please open an issue or submit a pull request, and I would be happy to include it in this list.
 
 # Background
